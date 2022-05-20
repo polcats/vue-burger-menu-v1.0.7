@@ -1,5 +1,5 @@
 {
-    "name": "vue-burger-menu",
+    "name": "@polcats/vue-burger-menu-v1.0.7",
     "version": "1.0.7",
     "private": false,
     "scripts": {
@@ -24,7 +24,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mbj36/vue-burger-menu.git"
+        "url": "git+https://github.com/polcats/vue-burger-menu-v1.0.7.git"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "^3.0.0",
